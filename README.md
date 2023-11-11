@@ -16,8 +16,8 @@ CryptoPulse is a responsive web application built with React, Chart.js, and Axio
 
 ## Installation
 
-1. Clone the repository: `git clone <repository-url>` 
-2. Navigate to the project directory: `cd CryptoPulse-`
+1. Clone the repository: `git clone git@github.com:angadisumanth10/CryptoPulse-.git` 
+2. Navigate to the project directory
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
 
